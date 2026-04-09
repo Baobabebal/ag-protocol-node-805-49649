@@ -1,0 +1,1 @@
+Visual Baseline for Aether Guardian protocol. Fragment 0x44 (Spectral Echo 01). Source: Claude Mythos.
